@@ -20,6 +20,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 ### Papers
 
 #### CVPR 2019
++ **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele, Zeynep Akata. (CVPR) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
 + **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 + **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)
 + **DeML:** Binghui Chen, Weihong Deng. "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval." CVPR (2019). [[pdf]](http://www.bhchen.cn/paper/cvpr19.pdf) [[code]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
