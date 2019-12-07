@@ -18,14 +18,17 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 ## Zero-Shot Object Classification
 
 ### Papers
+#### ACM MM 2019
++ **TGG:**  Zhang C, Lyu X, Tang Z. TGG: Transferable Graph Generation for Zero-shot and Few-shot Learning ACM MM
+(2019) [[pdf]](https://arxiv.org/pdf/1908.11503.pdf) **AwA: 78.7**  **CUB: 63.4**  **SUN: 75.4** **APY: 70.6**
 
 #### CVPR 2019
-+ **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele, Zeynep Akata. (CVPR) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf)
-+ **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
++ **f-VAEGAN-D2:** Yongqin Xian, Saurabh Sharma, Bernt Schiele, Zeynep Akata. (CVPR) [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xian_F-VAEGAN-D2_A_Feature_Generating_Framework_for_Any-Shot_Learning_CVPR_2019_paper.pdf) **AwA: 65.2**  **CUB: 53.6**  **SUN: 43.1**
++ **CADA-VAE:** Edgar Schönfeld, Sayna Ebrahimi, Samarth Sinha, Trevor Darrell, Zeynep Akata. "Generalized Zero- and Few-Shot Learning via Aligned Variational Autoencoders." CVPR (2019). [[pdf]](https://arxiv.org/abs/1812.01784) [[code]](https://github.com/edgarschnfld/CADA-VAE-PyTorch)  **AwA: 64.1**  **CUB: 52.4**  **SUN: 40.6**
 + **GDAN:** He Huang, Changhu Wang, Philip S. Yu, Chang-Dong Wang. "Generative Dual Adversarial Network for Generalized Zero-shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/abs/1811.04857) [[code]](https://github.com/stevehuanghe/GDAN)
 + **DeML:** Binghui Chen, Weihong Deng. "Hybrid-Attention based Decoupled Metric Learning for Zero-Shot Image Retrieval." CVPR (2019). [[pdf]](http://www.bhchen.cn/paper/cvpr19.pdf) [[code]](https://github.com/chenbinghui1/Hybrid-Attention-based-Decoupled-Metric-Learning)
 + **Gzsl-VSE:** Pengkai Zhu, Hanxiao Wang, Venkatesh Saligrama. "Generalized Zero-Shot Recognition based on Visually Semantic Embedding." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1811.07993.pdf)
-+ **LisGAN:** Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04092.pdf) [[code]](https://github.com/lijin118/LisGAN)
++ **LisGAN:** Jingjing Li, Mengmeng Jin, Ke Lu, Zhengming Ding, Lei Zhu, Zi Huang. "Leveraging the Invariant Side of Generative Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1904.04092.pdf) [[code]](https://github.com/lijin118/LisGAN)  **AwA: 62.3**  **CUB: 51.6**  **SUN: 40.2**
 + **DGP:** Michael Kampffmeyer, Yinbo Chen, Xiaodan Liang, Hao Wang, Yujia Zhang, Eric P. Xing. "Rethinking Knowledge Graph Propagation for Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1805.11724.pdf) [[code]](https://github.com/cyvius96/DGP)
 + **DAZL:** Yuval Atzmon, Gal Chechik. "Domain-Aware Generalized Zero-Shot Learning." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1812.09903.pdf)
 + **PrEN:** Meng Ye, Yuhong Guo. "Progressive Ensemble Networks for Zero-Shot Recognition." CVPR (2019). [[pdf]](https://arxiv.org/pdf/1805.07473.pdf)
@@ -49,7 +52,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 
 
 #### CVPR 2018
-
++ **CLSWGAN:**  Xian Y, Lorenz T, Schiele B, et al. "Feature generating networks for zero-shot learning." CVPR (2018). [[pdf](https://arxiv.org/pdf/1712.00981.pdf)] **AwA: 59.6**  **CUB: 49.7**  **SUN: 39.4**
 + **GCN:**  Xiaolong Wang, Yufei Ye, Abhinav Gupta. "Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.08035.pdf)] [[code](https://github.com/JudyYe/zero-shot-gcn)]
 + **PSR:** Yashas Annadani, Soma Biswas. "Preserving Semantic Relations for Zero-Shot Learning." CVPR (2018). [[pdf](https://arxiv.org/pdf/1803.03049.pdf)]
 + **GAN-NT:** Yizhe Zhu, Mohamed Elhoseiny, Bingchen Liu, Xi Peng, Ahmed Elgammal. "A Generative Adversarial Approach for Zero-Shot Learning From Noisy Texts." CVPR (2018). [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhu_A_Generative_Adversarial_CVPR_2018_paper.pdf)]
