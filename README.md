@@ -15,7 +15,7 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + [Other Resources](#Other-resources)
 
 SOTA data:
-![](https://github.com/wenjiaXu/awesome-zero-shot-learning/SOTA_ZSL.png)
+![SOTA](https://github.com/wenjiaXu/awesome-zero-shot-learning/SOTA_ZSL.png)
 
 ## Zero-Shot Object Classification
 
