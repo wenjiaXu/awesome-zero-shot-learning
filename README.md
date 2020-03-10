@@ -14,6 +14,8 @@ Contributions are welcome. Please see the [issue](https://github.com/chichilicio
 + [Starter code for ZSL](#Starter-Code)
 + [Other Resources](#Other-resources)
 
+SOTA data:
+
 
 ## Zero-Shot Object Classification
 
